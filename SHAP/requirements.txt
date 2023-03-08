@@ -1,0 +1,12 @@
+# numerical operations and data manipulation / analysis
+numpy
+pandas
+
+# predictive data analysis / ml
+sklearn
+xgboost
+
+# xai packages
+shap 
+lime
+dice-ml
